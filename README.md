@@ -9,5 +9,6 @@ Summary :
   * Reaction-diffusion model : simulation of the interaction of two chimical species that react and diffuse with each other
   * Sods Shock Tube : calculation of the pressure, density and velocity of a compressible gas through a shock tube at a time following the diaphragm rupture initially containing the gaz
   * Traffic Flow : modelisation and description of traffic flow on a single-lane roadway
+- Data Science : 
 
 Note : to see the animations of Fluid dynamics respository files, once you have opened one of them, click on the circle to the right of the title to open it with nbviewer.
