@@ -1,17 +1,17 @@
-# Projects
+# **Projects**
 Respository containing some of the projects I worked on (master thesis, personnal work, etc.)
 
-Summary :
+**Summary :**
 
-- Master Thesis (Fr): a part of the scripts I used during my master thesis
+**- Master Thesis (Fr):** a part of the scripts I used during my master thesis
 
-- Fluid dynamics (Fr): some of the project, in fluid dynamics, I worked on during my university studies
-  * Stokes flow : solving the stokes flow in a square cavity with a lid
-  * Reaction-diffusion model : simulation of the interaction of two chimical species that react and diffuse with each other
-  * Sods Shock Tube : calculation of the pressure, density and velocity of a compressible gas through a shock tube at a time following the diaphragm rupture initially containing the gaz
-  * Traffic Flow : modelisation and description of traffic flow on a single-lane roadway
+**- Fluid dynamics (Fr):** some of the project, in fluid dynamics, I worked on during my university studies
+  * **Stokes flow :** solving the stokes flow in a square cavity with a lid
+  * **Reaction-diffusion model :** simulation of the interaction of two chimical species that react and diffuse with each other
+  * **Sods Shock Tube :** calculation of the pressure, density and velocity of a compressible gas through a shock tube at a time following the diaphragm rupture initially containing the gaz
+  * **Traffic Flow :** modelisation and description of traffic flow on a single-lane roadway
   
-- Data Science (En): projects of machine learning and data science
-  * Project 1 : programmation and improvement of multivariate regression algorithms (linear and kNN) of different library (Scikit Learn & Statsmodels).
+**- Data Science (En):** projects of machine learning and data science
+  * **Project 1 :** programmation and improvement of multivariate regression algorithms (linear and kNN) of different library (Scikit Learn & Statsmodels).
 
 Note : to see the animations of Fluid dynamics respository files, once you have opened one of them, click on the circle to the right of the title to open it with nbviewer.
